@@ -71,7 +71,7 @@ It provides a quick and intuitive sense of the common terms used in the dataset.
 
 Visualizes how well the SVC classifier distinguishes between fake and genuine reviews.
 
-![Confusion Matrix](images/confusion_matrix_svc.png)
+![Confusion Matrix](images/confusion_matrix_best_model.png)
 
 *Note: The confusion matrix corresponds to a re-run of the SVC model (accuracy ≈ 88.2%), which may differ slightly from earlier runs due to random data splits.*
 
